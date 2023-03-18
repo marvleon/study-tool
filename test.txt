@@ -1,0 +1,8 @@
+LLL:Flexible way to store data items! Some memory and performance overhead.
+Array's:Fast but reorganizing is a pain and they are not flexible!
+Hash Table:Super neat, requires hash function, watch for collisions and clusters!
+Binary tree:Let the tree order the data, but make sure it stays ordered correctly!
+Recursion:Always check your cases and follow the stack frame.
+Destructor:Whenever you invoke 'new' be sure to have a 'delete' here.
+Constructor:Initialize data members for your ADT. Don't recreate them.
+
